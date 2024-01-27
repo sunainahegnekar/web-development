@@ -2,6 +2,6 @@
  https://sunainahegnekar.github.io/web-development/
 
  #Repository
-  https://sunainahegnekar.github.io/web-development/Repository
+  https://sunainahegnekar.github.io/web-development/web/index.html
 
  
