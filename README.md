@@ -1,7 +1,7 @@
 # web-development
  https://sunainahegnekar.github.io/web-development/
 
- #Repository
+ #Responsive web
   https://sunainahegnekar.github.io/web-development/web/index.html
 
   #Alternative link
